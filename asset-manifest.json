@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ead1d1d.css",
+    "main.js": "/static/js/main.2c67bfb6.js",
+    "static/media/inner-img.jpg": "/static/media/inner-img.28e71072ded05d0d91f4.jpg",
+    "static/media/footer.jpg": "/static/media/footer.071af1464b80db20267b.jpg",
+    "static/media/whychoous.jpg": "/static/media/whychoous.1b038c72ac1bdfa3ba97.jpg",
+    "static/media/c2c.jpg": "/static/media/c2c.b53c831cd1e3b9d8c368.jpg",
+    "static/media/slider-back.jpg": "/static/media/slider-back.35ab15d51b79e1e20766.jpg",
+    "static/media/testimonial-bg.jpg": "/static/media/testimonial-bg.2e9d799425a829072dfd.jpg",
+    "static/media/contact-back.jpg": "/static/media/contact-back.1098acc33f277dd4481c.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.8ead1d1d.css.map": "/static/css/main.8ead1d1d.css.map",
+    "main.2c67bfb6.js.map": "/static/js/main.2c67bfb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ead1d1d.css",
+    "static/js/main.2c67bfb6.js"
+  ]
+}
